@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const GameDiv = styled.div`
+  margin-top: 2.5em;
   h1 {
     font-size: 2.5em;
   }
